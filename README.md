@@ -6,8 +6,8 @@
 
 <h2> Hi there! I'm Agustin Luques👋 </h2>
 
-- 🔭 **Now**: Cognizant Softvision. **Before**: Techint.
-- 👩🏻‍💻 Feel free to visit my [page](https://agustinluques.com.ar)
+- 🔭 **Now**: [@mercadolibre](https://github.com/mercadolibre). **Before**: Cognizant Softvision, Techint.
+- 👩🏻‍💻 Feel free to visit my [website](https://agustinluques.com.ar)
 
 <h2>Languages and techs</h2>
 
