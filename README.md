@@ -6,7 +6,7 @@
 
 <h2> Hi there! I'm Agustin Luques👋 </h2>
 
-- 🔭 **Now**: [@mercadolibre](https://github.com/mercadolibre). **Before**: Cognizant Softvision, Techint.
+- 🔭 **Now**: [@HomeVision](https://github.com/homevision). **Before**: MercadoLibre, Cognizant Softvision, Techint.
 - 👩🏻‍💻 Feel free to visit my [website](https://agustinluques.com.ar)
 
 <h2>Languages and techs</h2>
@@ -19,7 +19,7 @@
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" /></code>
 <details>
   <summary>Some other facts about me</summary>
   <h2>GitHub Stats</h2>
